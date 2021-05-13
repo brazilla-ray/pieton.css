@@ -1,0 +1,25 @@
+{
+  "name": "pieton.css",
+  "version": "1.0.0",
+  "description": "A bright, lively, and accessible CSS color scheme.",
+  "main": "pieton.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brazilla-ray/pieton.css.git"
+  },
+  "keywords": [
+    "color",
+    "bright",
+    "accessible",
+    "css"
+  ],
+  "author": "William Whitaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brazilla-ray/pieton.css/issues"
+  },
+  "homepage": "https://github.com/brazilla-ray/pieton.css#readme"
+}
