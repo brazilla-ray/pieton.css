@@ -1,0 +1,130 @@
+/** pieton color scheme **/
+:root {
+  --pieton-blue: #0071BB;
+  --pieton-blue-dark: #1D185C;
+  --pieton-blue-light: #AAFFFF;
+  --pieton-red: #E51A24;
+  --pieton-red-dark: #971707;
+  --pieton-red-light: #FF6395;
+  --pieton-yellow: #F6EA03;
+  --pieton-yellow-dark: #f79011;
+  --pieton-yellow-light: #F9FF7F;
+  --pieton-near-black: #00000F;
+  --pieton-near-white: #FFFFF0;
+  --pieton-gray: #A0A0A0;
+  --pieton-gray-dark: #555555;
+  --pieton-gray-light: #D8D8D8;
+}
+/** foreground **/
+.pieton-blue-fg {
+  color: var(--pieton-blue);
+}
+
+.pieton-blue-dark-fg {
+  color: var(--pieton-blue-dark);
+}
+
+.pieton-blue-light-fg {
+  color: var(--pieton-blue-light);
+}
+
+.pieton-red-fg {
+  color: var(--pieton-red);
+}
+
+.pieton-red-dark-fg {
+  color: var(--pieton-red-dark);
+}
+
+.pieton-red-light-fg {
+  color: var(--pieton-red-light);
+}
+
+.pieton-yellow-fg {
+  color: var(--pieton-yellow);
+}
+
+.pieton-yellow-dark-fg {
+  color: var(--pieton-yellow-dark);
+}
+
+.pieton-yellow-light-fg {
+  color: var(--pieton-yellow-light);
+}
+
+.pieton-near-black-fg {
+  color: var(--pieton-near-black);
+}
+
+.pieton-near-white-fg {
+  color: var(--pieton-near-white);
+}
+
+.pieton-gray-fg {
+  color: var(--pieton-gray);
+}
+
+.pieton-gray-dark-fg {
+  color: var(--pieton-gray-dark);
+}
+
+.pieton-gray-light-fg {
+  color: var(--pieton-gray-light);
+}
+
+/** background **/
+.pieton-blue-bg {
+  background-color: var(--pieton-blue);
+}
+
+.pieton-blue-dark-bg {
+  background-color: var(--pieton-blue-dark);
+}
+
+.pieton-blue-light-bg {
+  background-color: var(--pieton-blue-light);
+}
+
+.pieton-red-bg {
+  background-color: var(--pieton-red);
+}
+
+.pieton-red-dark-bg {
+  background-color: var(--pieton-red-dark);
+}
+
+.pieton-red-light-bg {
+  background-color: var(--pieton-red-light);
+}
+
+.pieton-yellow-bg {
+  background-color: var(--pieton-yellow);
+}
+
+.pieton-yellow-dark-bg {
+  background-color: var(--pieton-yellow-dark);
+}
+
+.pieton-yellow-light-bg {
+  background-color: var(--pieton-yellow-light);
+}
+
+.pieton-near-black-bg {
+  background-color: var(--pieton-near-black);
+}
+
+.pieton-near-white-bg {
+  background-color: var(--pieton-near-white);
+}
+
+.pieton-gray-bg {
+  background-color: var(--pieton-gray);
+}
+
+.pieton-gray-dark-bg {
+  background-color: var(--pieton-gray-dark);
+}
+
+.pieton-gray-light-bg {
+  background-color: var(--pieton-gray-light);
+}
